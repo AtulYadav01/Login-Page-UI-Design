@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "375217000465",
+    "firebase_url": "https://task1-7c2ef.firebaseio.com",
+    "project_id": "task1-7c2ef",
+    "storage_bucket": "task1-7c2ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375217000465:android:9ba312dff99afb9afb21b0",
+        "android_client_info": {
+          "package_name": "com.atulyadav.Task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375217000465-2q4d01tn7sl21ii3hsgtmlfbanl1gl1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsUSlaOvZbDIuhIRPDbb27TzVv7eUug7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375217000465-2q4d01tn7sl21ii3hsgtmlfbanl1gl1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375217000465:android:8bed138c2ccb60e6fb21b0",
+        "android_client_info": {
+          "package_name": "com.atulyadav.task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375217000465-2q4d01tn7sl21ii3hsgtmlfbanl1gl1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsUSlaOvZbDIuhIRPDbb27TzVv7eUug7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375217000465-2q4d01tn7sl21ii3hsgtmlfbanl1gl1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
